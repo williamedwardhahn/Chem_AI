@@ -2,7 +2,7 @@
 
 An educational data science curriculum that teaches **Python, cheminformatics, and machine learning** through real molecular data. Designed for students with no programming experience.
 
-A collaboration between **William Hahn** (Mathematics & Statistics) and **[Salvatore Lepore](https://chemistry.fau.edu/leporelab/leporelabhome.php)** (Chemistry & Biochemistry) at Florida Atlantic University.
+A collaboration between **[Salvatore Lepore](https://chemistry.fau.edu/leporelab/leporelabhome.php)** (Chemistry & Biochemistry) and **[William Hahn](https://mpcrlab.com/)** (Mathematics & Statistics) at Florida Atlantic University.
 
 ---
 
@@ -74,8 +74,8 @@ All installed automatically in Colab:
 
 ## Collaborators
 
-- **William Hahn** — Department of Mathematics & Statistics, FAU
 - **Salvatore Lepore** — Department of Chemistry & Biochemistry, FAU
+- **[William Hahn](https://mpcrlab.com/)** — Department of Mathematics & Statistics, FAU
 
 ---
 
